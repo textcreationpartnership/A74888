@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Bloudy fight between [t]he two potent fleets of England and Holland, on Thursday and Friday the second and third of June, in St. Georges Channel; with the number of ships that were burnt, sunk, and taken in the engagement: And a perfect account of the proceedings of both the fleets.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74888</idno>
+            <idno type="STC">Thomason E698_20</idno>
+            <idno type="EEBO-CITATION">50796651</idno>
+            <idno type="OCLC">ocm 50796651</idno>
+            <idno type="VID">166553</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74888)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166553)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 108:E698[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Bloudy fight between [t]he two potent fleets of England and Holland, on Thursday and Friday the second and third of June, in St. Georges Channel; with the number of ships that were burnt, sunk, and taken in the engagement: And a perfect account of the proceedings of both the fleets.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Wood.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title vignette.</note>
+                  <note>Imperfect: tightly bound with slight loss of print on t.p.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Naval battles --  England.</term>
+               <term>Naval battles --  Netherlands.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714.</term>
+               <term>Netherlands --  History, Naval.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166553:1" rendition="simple:additions"/>
+            <p>A BLOUDY FIGHT BETWEEN <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he two Potent Fleets of <hi>ENGLAND</hi> and Holland, on Thurſday and Friday the ſecond and third of June, in St. <hi>Georges</hi> Channel; With the number of Ships that were burnt, ſunk, and taken in the Engagement: And a perfect Account of the proceedings of both the FLEETS.</p>
+            <figure>
+               <figDesc>depiction of two warships engaged in battle</figDesc>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed by <hi>Robert Wood.</hi> 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:166553:2"/>
+            <pb n="3" facs="tcp:166553:2"/>
+            <head>The Copies of ſeveral Letters from the Navy, giving a perfect Account of the proceedings of the Engliſh and Dutch Fleets; Wherein is the Relation of a bloudy fight between the Engliſh and the Hollanders on Thurſday the third of June, betwixt Dover and Calais.</head>
+            <div type="letter">
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">W</seg>E are now within fight of Yarmoth ſteepl, being about five Leagu<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> from the ſhore, where we ride at Anchor, and ſhall ſtay here about two days, to receive ſuch ſhips as ſhall come to us from the River, and from Hull, according to Orders already ſent to that purpoſe. There are five Merchants ſhips which come from
+<pb n="4" facs="tcp:166553:3"/>Malaga, now put into Mounts Bay, they are all bound for London.</p>
+               <closer>
+                  <dateline>From on board the Reſolution <date>the 29 of May.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>A Narrative from Major Dorril, of the proceedings at ſea, from the <hi>13</hi> of May to this preſent.</head>
+               <p>ON the 31 of May, comming out of the Sound, off the Naes, we diſcovered about 10 in the morning a fleet of ſome 60 or 70 great ſhips, with 5 great convoyers, they were two Engliſh miles to the weather of us, and ſtood South-eaſt for the Sound; we ſtood along the Land North<g ref="char:EOLhyphen"/>weſt. <hi>May</hi> 15. The wind blew very hard, we ſtood in to the ſea 6 or 8 Glaſſes, ſtanding again to the ſhore ſouth, we diſcovered a great ſail to our windward, about 4 in the afternoon, we aimed to be between him and the ſhore, but looking out we diſcovered above 100 of great ſhips, with many convoyers, who having a Galiot with him ſent him off from the fleet to diſcover us, we had a <hi>Daniſh</hi> Fane up, which when he diſcovered he came no further. This is conceived to be the Ruſſia fleet. <hi>May</hi> 16. We eſpyed the Berghen fleet, and immediatly thereupon a great ſhip in our water athwart our bow, and there was in his compa<g ref="char:EOLhyphen"/>ny above 300 great ſhips, which we afterwards diſcover<g ref="char:EOLhyphen"/>ed, all ſtanding ſouth, we could not miſs them, therefore durſt not truſt to our running, but rather by plain dealing or impudence, either to outface them, or to deceive them, and ſo we ſtood through their whole fleet, keeping all our men cloſe but five, whereof 4 were Danes; the firſt ſhip that came up to ſpeak us, was a ſhip with 20 Guns, he hung out his Dutch colours, we our Daniſh, he aſkt us whence we were, we told him from <hi>Coppenhagen,</hi> and bound for Berghen in Norway; we aſkt them from whence
+<pb n="5" facs="tcp:166553:3"/>their fleet, they anſwered, from Amſterdam, Rotter<g ref="char:EOLhyphen"/>dam, &amp;c.</p>
+            </div>
+            <div type="letter">
+               <opener>
+                  <dateline>Aboard the Adventure Frigat <date>May 27.</date>
+                  </dateline>
+               </opener>
+               <p>Out of Scotland it is certified, that the <hi>Advice, Fox,</hi> and <hi>Portſmouth</hi> frigats, met with two of the Dutch Merchant<g ref="char:EOLhyphen"/>men not far from <hi>Shetland,</hi> laden with <hi>French</hi> wines; who for ſome time diſputed the ſeas, but after a very ſharp conflict, they were both boarded, and brought into Aber<g ref="char:EOLhyphen"/>deen.</p>
+               <p>From aboard the Reſolution off the Texel, 27 May, came thus: A councell being called by the Generals on board this ſhip, it was this day reſolved by the Officers, That the whole Engliſh fleet do from hence ſet ſail for the Engliſh coaſts; that the place of Randezvouz be where they ſhall come to anchor off of Yarmouth, on the backſide of the Sands; and it was reſolved alſo that Or<g ref="char:EOLhyphen"/>ders ſhould be ſent into the River, and other parts, which accordingly are ſent for the reſt of the ſhips that are ready to ſayl, to come and joyn with the fleet there, where it is reſolved to ſtay 48 hours. We are now within ſight of the ſteeple, and do ride at Anchor five langues from the ſhore.</p>
+               <p>Van Trump we hear is at Gorce with 120 men of War, and fifty more are expected to joyn with him, which will not probably bee prevented. Gen. Blake is joyned with Monk and Dean, and now are bound Southward; and ha<g ref="char:EOLhyphen"/>ving ſent forth a Van ſquadron, ſoon poſſeſſed them<g ref="char:EOLhyphen"/>ſelves of 10 Daniſh and Dutch ſhips, laden with Pitch, Tar, &amp;c.</p>
+               <p>But the enemy hath taken from Us two brave colliers, and look with a notable ſheeps eye upon our Malego men, coming for <hi>London.</hi>
+               </p>
+            </div>
+            <div type="letter">
+               <pb n="6" facs="tcp:166553:4"/>
+               <head>The Copy of a Letter from our Fleet in Lee ROAD</head>
+               <opener>
+                  <salute>Right Honourable,</salute>
+               </opener>
+               <p>IN my laſt dated the 26 inſtant, I gave your Honour an account of ten ſale of ſhips in this Road, ſince which more men are put on board them, and I hope there will be joyned one or more to their number very ſuddenly, theſe being in a good capa<g ref="char:EOLhyphen"/>city for ſudden ſervice, as ſoon as the wa<g ref="char:EOLhyphen"/>ter and ſome other neceſſaries are come down to them, which is expected every hour, and aſſurance given of it. Yeſterday the Hampſhire Frigot came into this road, the Eſſex Frigot is in Tilbury Hope, which will be ready to joyn with the other; Ge<g ref="char:EOLhyphen"/>neral Blake is in Tilbury hope aboard the Eſſex frigot.</p>
+               <p>This ſquadron is to fall down ſix or ſe<g ref="char:EOLhyphen"/>ven miles to morrow morning early to the
+<pb n="7" facs="tcp:166553:4"/>North, to be in readineſs to anſwer any ſudden command.</p>
+               <p>Major Bourn ſent out the Nichodemus on Thurſday laſt, and other veſſels at o<g ref="char:EOLhyphen"/>ther times to gain intelligence of our fleet, as alſo of the Enemies motion. The Ni<g ref="char:EOLhyphen"/>chodemus is returned this day, and gives account that the Dutch lye at North-ſand head, Long ſand head, and as low North as Orfordneſs. There will remain five or ſixe Merchants ſhips in the ſervice of the State that are betwixt this and Eriff, which with care may be ſpeedily made ready to ſail with thoſe here. A Guard is appointed to ply to the North-foreland, for the ſecu<g ref="char:EOLhyphen"/>rity of the Fiſhery.</p>
+               <closer>
+                  <dateline>Dated aboard the William in Lee Road, <date>the 30 of May, 1653.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="8" facs="tcp:166553:5"/>
+               <head>The Copy of a Letter from <hi>Dover.</hi>
+               </head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>OUr fleet under the command of the two Generals, put forth from Yarmouth Road the 31 of May, to ſeek for the Hollanders; and upon the ſecond inſtant, a<g ref="char:EOLhyphen"/>bout four in the morning, they diſcovered a great fleet of ſhips near St. Georges Channel; upon this diſcovery the Generals ſuppoſing them to be the Dutch fleet, immedi<g ref="char:EOLhyphen"/>ately called a Councel of War, where it was reſolved that they ſhould advance towards them, and give them battel: They likewiſe having a view of our Fleet, as far as they could perceive, made preparation to oppoſe us, which was a great rejoicing to our fleet, whoſe onely aim was to in<g ref="char:EOLhyphen"/>gage them, ſo referring themſelves to the protection of the Almighty, they bore up to them: About 7 in the mor<g ref="char:EOLhyphen"/>ning they began to ingage, and the fight was fierce and ter<g ref="char:EOLhyphen"/>rible for us to hear; whereupon the Governour ſent forth a pinnace to obſerve the iſſue of the fight, which about 9 in the evening returned, and gave us an account, that with great hazard, and not without ſome ſmall loſſe, our ſhips had took 4 of the enemies, ſunk 5, and burnt 3, upon re<g ref="char:EOLhyphen"/>ceipt of this we in this Town not onely gave thanks to the Lord for this, but required a future bleſſing upon the indeavours of his poor ſervants. Having ended our Ori<g ref="char:EOLhyphen"/>ſons we began to make preparation both for offending the enemy, and defending our ſelves, and muſtred all the force we could make, planting our great guns in convenient places, and providing ammunition for our ſelves, and for the ſhips if occaſion ſhould ſerve. The Ordnance plaied til after day light, and this morning very early they began a<g ref="char:EOLhyphen"/>gain. I can give you no further account for the preſent, but till the next opportunity, muſt deſire to remain,</p>
+               <closer>
+                  <signed>Your faithfull Servant, <hi>W. H.</hi>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
